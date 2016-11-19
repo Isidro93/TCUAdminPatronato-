@@ -10,5 +10,5 @@ package BL;
  * @author Isidro
  */
 public class BLFamilia {
-    
+   
 }
